@@ -1,5 +1,6 @@
 # stdmap-kc
-critical parameter of standard map with Java
+- critical parameter of standard map with Java
+- report [here](./Internship_Report.pdf)
 
 ## how to run (in VSCode)
 1. install "Extension Pack for Java" extension (if it already exists, skip this step)
